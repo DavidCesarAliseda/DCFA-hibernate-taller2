@@ -1,0 +1,4 @@
+com.everis.hibernate
+com.nttdata.hibernate.models
+com.nttdata.hibernate.persistence
+com.nttdata.hibernate.services
